@@ -1,6 +1,6 @@
 // Provides stats & ports of targeted server
-// Takes a whopping 5.15GB of RAM (I know, it's a lot - sorry)
 // Created by LeQuietScripts
+
 // Server Statistics
 // Host Name: crush-server
 // Max Money: 1.25b
