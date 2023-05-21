@@ -2,7 +2,7 @@
 // Created by LeQuietScripts
 
 // Server Statistics
-// Host Name: crush-server
+// Host Name: crush-fitness
 // Max Money: 1.25b
 // Min Security: 13
 // Available Ram: #GB of #GB
